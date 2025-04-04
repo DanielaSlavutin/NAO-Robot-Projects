@@ -5,12 +5,12 @@ Welcome to the NAO Robot Projects repository! This reposiroty contains various p
 ### 1️⃣ Color Detection with Voice Feedback ✅
    A project where the NAO robot detects colors in its field of view and provides voice feedback on the detected color's position.
 
-### 2️⃣ Color Detection with Motoric Feedback (In Progress) 🔄
-   An ongoing project where the NAO robot will detect colors and respond with moving towards the object.
+### 2️⃣ Color Detection with Motoric Feedback in Webots✅
+   A project where the NAO robot detects colors in its field of view and walks towards the colored object once detected.
 
 ## 🛠 Setup & Requirements
 To run these projects, you will need:
-* A NAO robot or a simulation environment such as Webots (I recommend to use specifically Webots 2019)
+* A NAO robot or a simulation environment such as Webots (I recommend to use specifically Webots R2019a)
 * Python 2.7 (due to NAO's SDK limitations)
 * NAOqi SDK installed
 * OpenCV and Numpy libraries
